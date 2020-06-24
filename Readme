@@ -1,0 +1,23 @@
+** Qu'est-ce qu'un CMS ?
+Il s’agit de l’abréviation de Content Management System, c’est-à-dire littéralement « système de gestion de contenu ». 
+Concrètement, un CMS est un programme informatique qui facilite la création d’un site web en proposant des modèles de sites, 
+un univers graphique, etc. WordPress, Joomla! ou Typo3 sont des CMS, tout comme 1&1 MyWebsite.
+
+Les CMS fonctionnent sur un principe simple, qui tient lui aussi en une abréviation (décidément !) : 
+WYSIWYG, pour What you see is what you get (« Ce que vous voyez est ce que vous obtenez »). 
+Ces quelques lettres n’ont l’air de rien et pourtant, il s’agit d’une vraie révolution en informatique 
+lorsque cette technique voit le jour dans les années 1980. En effet, jusque là, le contenu (texte, images, etc.) 
+était complètement séparé de la forme (aspect extérieur).
+
+Par exemple, si vouliez que le titre (dans le fichier « Contenu ») soit en bleu, vous indiquiez le changement de couleur dans un fichier « Forme » ; 
+le titre devenait bien bleu, mais seulement après plusieurs secondes.
+
+Plusieurs secondes, direz-vous, ce n’est pas forcément beaucoup. Oui, mais quand vous faites des modifications les unes à la suite des autres, 
+et parfois les unes liées aux autres, cela peut devenir un vrai casse-tête. Avec un CMS, les changements sont instantanés.
+
+**Les avantages à utiliser un CMS
+Utiliser un CMS présente plusieurs avantages. Nous avons choisi de vous en présenter ici les trois principaux.
+
+Comme nous venons de le voir, le recours à un CMS permet de gagner du temps (inutile d’attendre 10 secondes à chaque modification), grâce à une mise à jour et une prévisualisation du résultat final en temps réel. Pratique, non ?
+
+Ensuite, l’interface de gestion est très souvent intuitive, y compris pour des personnes n’ayant aucune connaissance technique en développement web. Même si vous n’êtes pas spécialiste web, vous devriez donc vous orienter dans votre CMS sans problème particulier et réussir à obtenir le résultat souhaité.
